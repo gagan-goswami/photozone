@@ -220,7 +220,7 @@ a:hover {
   text-align: center;
   height: 500px;
   background-size: cover;
-  background-position: left;
+  background-position: center;
   position: relative;
   z-index: 1;
 }
