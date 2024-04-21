@@ -1192,6 +1192,10 @@ a:hover {
   margin-bottom: 20px;
 }
 
+.contact-section .contact-form {
+  margin-bottom: 25px;
+}
+
 .contact-section .form-control::placeholder {
   color: var(--white);
 }
